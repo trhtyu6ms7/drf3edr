@@ -1,2 +1,13 @@
 vmess://ws+tls:7d695c53-79b5-4705-ac8a-4592f3d63fcd-0@162.159.138.5:443/?host=patr-fsdg1.pages.dev&path=/dd0f5d48-3399-4057-8335-c0a421237fallow&0b-vmes true&tlsServerName=patr-fsdg1.pages.dev#
- 
+vmess://ws+tls:1d2cd284-788a-4f58-8599-aae65c1bce0f-0@ngftjdghm.kjtyuktg.repl.co:443/?host=ngftjdghm.kjtyuktg.repl.co&path=/1d2cd284-788a-4f58-8599-aae65c1bce0f-vmess&allowInsecure=true&tlsServerName=ngftjdghm.kjtyuktg.repl.co#repli-2
+vmess://ws+tls:1eb64d36-b010-4c6c-9ec3-11b90ad6e004-0@ukfrtyrjdjy.kjtyuktg.repl.co:443/?host=ukfrtyrjdjy.kjtyuktg.repl.co&path=/1eb64d36-b010-4c6c-9ec3-11b90ad6e004-vmess&allowInsecure=true&tlsServerName=ukfrtyrjdjy.kjtyuktg.repl.co#repli-3
+vmess://ws+tls:481d87c2-32bd-468e-8b18-bc5016a98c62-0@het6urfk.kjtyuktg.repl.co:443/?host=het6urfk.kjtyuktg.repl.co&path=/481d87c2-32bd-468e-8b18-bc5016a98c62-vmess&allowInsecure=true&tlsServerName=het6urfk.kjtyuktg.repl.co#repli-4
+vmess://ws+tls:3ef9801a-5c6f-4308-ba5c-8cdd46df05c7-0@awfg6tyfk.kjtyuktg.repl.co:443/?host=awfg6tyfk.kjtyuktg.repl.co&path=/3ef9801a-5c6f-4308-ba5c-8cdd46df05c7-vmess&allowInsecure=true&tlsServerName=awfg6tyfk.kjtyuktg.repl.co#repli-5
+vmess://ws+tls:195a8c17-79ff-48ad-8090-9bb8939aa5e3-0@162.159.136.223:443/?host=2-glitchdfgh.pages.dev&path=/195a8c17-79ff-48ad-8090-9bb8939aa5e3-vm&allowInsecure=true&tlsServerName=2-glitchdfgh.pages.dev#glitc-CDN-02
+vmess://ws+tls:195a8c17-79ff-48ad-8090-9bb8939aa5e3-0@162.159.152.153:443/?host=1-glitchccdjff.pages.dev&path=/195a8c17-79ff-48ad-8090-9bb8939aa5e3-vm&allowInsecure=true&tlsServerName=1-glitchccdjff.pages.dev#glitc-CDN-01
+vmess://ws+tls:195a8c17-79ff-48ad-8090-9bb8939aa5e3-0@fuschia-chatter-epoch.glitch.me:443/?host=fuschia-chatter-epoch.glitch.me&path=/195a8c17-79ff-48ad-8090-9bb8939aa5e3-vm&allowInsecure=true&tlsServerName=fuschia-chatter-epoch.glitch.me#glitc-zl
+vmess://ws+tls:7d695c53-79b5-4705-ac8a-4592f3d63fcd-0@80-41e3f872ff3146dda31f33a8c549620c.onpatr.cloud:443/?host=80-41e3f872ff3146dda31f33a8c549620c.onpatr.cloud&path=/dd0f5d48-3399-4057-8335-c0a421237f0b-vmess&allowInsecure=true#Patr
+vmess://ws+tls:7d695c53-79b5-4705-ac8a-4592f3d63fcd-0@dkgid.dgsadf.cf:443/?host=dkgid.dgsadf.cf&path=/dd0f5d48-3399-4057-8335-c0a421237f0b-vmess&allowInsecure=true&tlsServerName=dkgid.dgsadf.cf#Patr+Workers
+vmess://ws+tls:7d695c53-79b5-4705-ac8a-4592f3d63fcd-0@patr-fsdg1.pages.dev:443/?host=patr-fsdg1.pages.dev&path=/dd0f5d48-3399-4057-8335-c0a421237f0b-vmess&allowInsecure=true&tlsServerName=patr-fsdg1.pages.dev#Patr+pages
+vmess://ws+tls:7d695c53-79b5-4705-ac8a-4592f3d63fcd-0@172.67.6.21:443/?host=dkgid.dgsadf.cf&path=/dd0f5d48-3399-4057-8335-c0a421237f0b-vmess&allowInsecure=true&tlsServerName=dkgid.dgsadf.cf#Patr+Workers+IP
+vmess://ws+tls:7d695c53-79b5-4705-ac8a-4592f3d63fcd-0@162.159.138.5:443/?host=patr-fsdg1.pages.dev&path=/dd0f5d48-3399-4057-8335-c0a421237f0b-vmess&allowInsecure=true&tlsServerName=patr-fsdg1.pages.dev#
